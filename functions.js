@@ -15,3 +15,5 @@ const getAge = name => (name === "Gilberto" ? 24 : 51);
 console.log("la profesion de gilberto es:" + getProfession("Gilberto"));
 
 console.log(`La edad de gilberto es ${getAge("Gilberto")}`);
+
+console.log("nuevo cambio");
